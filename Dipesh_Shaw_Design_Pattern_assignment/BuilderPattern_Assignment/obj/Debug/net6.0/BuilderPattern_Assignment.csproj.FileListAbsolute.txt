@@ -1,0 +1,30 @@
+C:\Users\GoTiwari\OneDrive - Affinion Group\Desktop\Practice_DotNet\BuilderPattern_Assignment\bin\Debug\net6.0\BuilderPattern_Assignment.exe
+C:\Users\GoTiwari\OneDrive - Affinion Group\Desktop\Practice_DotNet\BuilderPattern_Assignment\bin\Debug\net6.0\BuilderPattern_Assignment.deps.json
+C:\Users\GoTiwari\OneDrive - Affinion Group\Desktop\Practice_DotNet\BuilderPattern_Assignment\bin\Debug\net6.0\BuilderPattern_Assignment.runtimeconfig.json
+C:\Users\GoTiwari\OneDrive - Affinion Group\Desktop\Practice_DotNet\BuilderPattern_Assignment\bin\Debug\net6.0\BuilderPattern_Assignment.dll
+C:\Users\GoTiwari\OneDrive - Affinion Group\Desktop\Practice_DotNet\BuilderPattern_Assignment\bin\Debug\net6.0\BuilderPattern_Assignment.pdb
+C:\Users\GoTiwari\OneDrive - Affinion Group\Desktop\Practice_DotNet\BuilderPattern_Assignment\obj\Debug\net6.0\BuilderPattern_Assignment.csproj.AssemblyReference.cache
+C:\Users\GoTiwari\OneDrive - Affinion Group\Desktop\Practice_DotNet\BuilderPattern_Assignment\obj\Debug\net6.0\BuilderPattern_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GoTiwari\OneDrive - Affinion Group\Desktop\Practice_DotNet\BuilderPattern_Assignment\obj\Debug\net6.0\BuilderPattern_Assignment.AssemblyInfoInputs.cache
+C:\Users\GoTiwari\OneDrive - Affinion Group\Desktop\Practice_DotNet\BuilderPattern_Assignment\obj\Debug\net6.0\BuilderPattern_Assignment.AssemblyInfo.cs
+C:\Users\GoTiwari\OneDrive - Affinion Group\Desktop\Practice_DotNet\BuilderPattern_Assignment\obj\Debug\net6.0\BuilderPattern_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\GoTiwari\OneDrive - Affinion Group\Desktop\Practice_DotNet\BuilderPattern_Assignment\obj\Debug\net6.0\BuilderPattern_Assignment.dll
+C:\Users\GoTiwari\OneDrive - Affinion Group\Desktop\Practice_DotNet\BuilderPattern_Assignment\obj\Debug\net6.0\refint\BuilderPattern_Assignment.dll
+C:\Users\GoTiwari\OneDrive - Affinion Group\Desktop\Practice_DotNet\BuilderPattern_Assignment\obj\Debug\net6.0\BuilderPattern_Assignment.pdb
+C:\Users\GoTiwari\OneDrive - Affinion Group\Desktop\Practice_DotNet\BuilderPattern_Assignment\obj\Debug\net6.0\BuilderPattern_Assignment.genruntimeconfig.cache
+C:\Users\GoTiwari\OneDrive - Affinion Group\Desktop\Practice_DotNet\BuilderPattern_Assignment\obj\Debug\net6.0\ref\BuilderPattern_Assignment.dll
+C:\Users\Hjain1\OneDrive - Affinion Group\Desktop\New Project Design Pattern\BuilderPattern_Assignment\bin\Debug\net6.0\BuilderPattern_Assignment.exe
+C:\Users\Hjain1\OneDrive - Affinion Group\Desktop\New Project Design Pattern\BuilderPattern_Assignment\bin\Debug\net6.0\BuilderPattern_Assignment.deps.json
+C:\Users\Hjain1\OneDrive - Affinion Group\Desktop\New Project Design Pattern\BuilderPattern_Assignment\bin\Debug\net6.0\BuilderPattern_Assignment.runtimeconfig.json
+C:\Users\Hjain1\OneDrive - Affinion Group\Desktop\New Project Design Pattern\BuilderPattern_Assignment\bin\Debug\net6.0\BuilderPattern_Assignment.dll
+C:\Users\Hjain1\OneDrive - Affinion Group\Desktop\New Project Design Pattern\BuilderPattern_Assignment\bin\Debug\net6.0\BuilderPattern_Assignment.pdb
+C:\Users\Hjain1\OneDrive - Affinion Group\Desktop\New Project Design Pattern\BuilderPattern_Assignment\obj\Debug\net6.0\BuilderPattern_Assignment.csproj.AssemblyReference.cache
+C:\Users\Hjain1\OneDrive - Affinion Group\Desktop\New Project Design Pattern\BuilderPattern_Assignment\obj\Debug\net6.0\BuilderPattern_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hjain1\OneDrive - Affinion Group\Desktop\New Project Design Pattern\BuilderPattern_Assignment\obj\Debug\net6.0\BuilderPattern_Assignment.AssemblyInfoInputs.cache
+C:\Users\Hjain1\OneDrive - Affinion Group\Desktop\New Project Design Pattern\BuilderPattern_Assignment\obj\Debug\net6.0\BuilderPattern_Assignment.AssemblyInfo.cs
+C:\Users\Hjain1\OneDrive - Affinion Group\Desktop\New Project Design Pattern\BuilderPattern_Assignment\obj\Debug\net6.0\BuilderPattern_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Hjain1\OneDrive - Affinion Group\Desktop\New Project Design Pattern\BuilderPattern_Assignment\obj\Debug\net6.0\BuilderPattern_Assignment.dll
+C:\Users\Hjain1\OneDrive - Affinion Group\Desktop\New Project Design Pattern\BuilderPattern_Assignment\obj\Debug\net6.0\refint\BuilderPattern_Assignment.dll
+C:\Users\Hjain1\OneDrive - Affinion Group\Desktop\New Project Design Pattern\BuilderPattern_Assignment\obj\Debug\net6.0\BuilderPattern_Assignment.pdb
+C:\Users\Hjain1\OneDrive - Affinion Group\Desktop\New Project Design Pattern\BuilderPattern_Assignment\obj\Debug\net6.0\BuilderPattern_Assignment.genruntimeconfig.cache
+C:\Users\Hjain1\OneDrive - Affinion Group\Desktop\New Project Design Pattern\BuilderPattern_Assignment\obj\Debug\net6.0\ref\BuilderPattern_Assignment.dll
