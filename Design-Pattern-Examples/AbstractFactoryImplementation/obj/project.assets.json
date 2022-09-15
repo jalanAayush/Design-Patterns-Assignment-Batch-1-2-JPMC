@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mgupta1\\OneDrive - Affinion Group\\Documents\\JPMC_Internal_Assignment\\Design Pattern Examples\\AbstractFactoryImplementation\\AbstractFactoryImplementation.csproj",
+      "projectUniqueName": "C:\\Users\\Mgupta1\\OneDrive - Affinion Group\\Documents\\JPMC_Internal_Assignment\\Manank-Gupta-Design-Pattern-Assignment\\Design-Pattern-Examples\\AbstractFactoryImplementation\\AbstractFactoryImplementation.csproj",
       "projectName": "AbstractFactoryImplementation",
-      "projectPath": "C:\\Users\\Mgupta1\\OneDrive - Affinion Group\\Documents\\JPMC_Internal_Assignment\\Design Pattern Examples\\AbstractFactoryImplementation\\AbstractFactoryImplementation.csproj",
+      "projectPath": "C:\\Users\\Mgupta1\\OneDrive - Affinion Group\\Documents\\JPMC_Internal_Assignment\\Manank-Gupta-Design-Pattern-Assignment\\Design-Pattern-Examples\\AbstractFactoryImplementation\\AbstractFactoryImplementation.csproj",
       "packagesPath": "C:\\Users\\Mgupta1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mgupta1\\OneDrive - Affinion Group\\Documents\\JPMC_Internal_Assignment\\Design Pattern Examples\\AbstractFactoryImplementation\\obj\\",
+      "outputPath": "C:\\Users\\Mgupta1\\OneDrive - Affinion Group\\Documents\\JPMC_Internal_Assignment\\Manank-Gupta-Design-Pattern-Assignment\\Design-Pattern-Examples\\AbstractFactoryImplementation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
