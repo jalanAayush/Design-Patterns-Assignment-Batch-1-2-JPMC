@@ -1,0 +1,30 @@
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Design Pattern Examples\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.csproj.AssemblyReference.cache
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Design Pattern Examples\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Design Pattern Examples\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.AssemblyInfoInputs.cache
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Design Pattern Examples\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.AssemblyInfo.cs
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Design Pattern Examples\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Design Pattern Examples\BuilderPatternAssignment\bin\Debug\net6.0\BuilderPatternAssignment.exe
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Design Pattern Examples\BuilderPatternAssignment\bin\Debug\net6.0\BuilderPatternAssignment.deps.json
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Design Pattern Examples\BuilderPatternAssignment\bin\Debug\net6.0\BuilderPatternAssignment.runtimeconfig.json
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Design Pattern Examples\BuilderPatternAssignment\bin\Debug\net6.0\BuilderPatternAssignment.dll
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Design Pattern Examples\BuilderPatternAssignment\bin\Debug\net6.0\BuilderPatternAssignment.pdb
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Design Pattern Examples\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.dll
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Design Pattern Examples\BuilderPatternAssignment\obj\Debug\net6.0\refint\BuilderPatternAssignment.dll
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Design Pattern Examples\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.pdb
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Design Pattern Examples\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.genruntimeconfig.cache
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Design Pattern Examples\BuilderPatternAssignment\obj\Debug\net6.0\ref\BuilderPatternAssignment.dll
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Manank-Gupta-Design-Pattern-Assignment\Design-Pattern-Examples\BuilderPatternAssignment\bin\Debug\net6.0\BuilderPatternAssignment.exe
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Manank-Gupta-Design-Pattern-Assignment\Design-Pattern-Examples\BuilderPatternAssignment\bin\Debug\net6.0\BuilderPatternAssignment.deps.json
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Manank-Gupta-Design-Pattern-Assignment\Design-Pattern-Examples\BuilderPatternAssignment\bin\Debug\net6.0\BuilderPatternAssignment.runtimeconfig.json
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Manank-Gupta-Design-Pattern-Assignment\Design-Pattern-Examples\BuilderPatternAssignment\bin\Debug\net6.0\BuilderPatternAssignment.dll
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Manank-Gupta-Design-Pattern-Assignment\Design-Pattern-Examples\BuilderPatternAssignment\bin\Debug\net6.0\BuilderPatternAssignment.pdb
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Manank-Gupta-Design-Pattern-Assignment\Design-Pattern-Examples\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.csproj.AssemblyReference.cache
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Manank-Gupta-Design-Pattern-Assignment\Design-Pattern-Examples\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Manank-Gupta-Design-Pattern-Assignment\Design-Pattern-Examples\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.AssemblyInfoInputs.cache
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Manank-Gupta-Design-Pattern-Assignment\Design-Pattern-Examples\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.AssemblyInfo.cs
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Manank-Gupta-Design-Pattern-Assignment\Design-Pattern-Examples\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Manank-Gupta-Design-Pattern-Assignment\Design-Pattern-Examples\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.dll
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Manank-Gupta-Design-Pattern-Assignment\Design-Pattern-Examples\BuilderPatternAssignment\obj\Debug\net6.0\refint\BuilderPatternAssignment.dll
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Manank-Gupta-Design-Pattern-Assignment\Design-Pattern-Examples\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.pdb
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Manank-Gupta-Design-Pattern-Assignment\Design-Pattern-Examples\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.genruntimeconfig.cache
+C:\Users\Mgupta1\OneDrive - Affinion Group\Documents\JPMC_Internal_Assignment\Manank-Gupta-Design-Pattern-Assignment\Design-Pattern-Examples\BuilderPatternAssignment\obj\Debug\net6.0\ref\BuilderPatternAssignment.dll
