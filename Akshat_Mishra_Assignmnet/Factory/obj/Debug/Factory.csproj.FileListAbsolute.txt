@@ -1,0 +1,8 @@
+C:\Users\AMishra2\source\repos\JPMC_C#.Net\LearningCHash\Factory\bin\Debug\Factory.exe.config
+C:\Users\AMishra2\source\repos\JPMC_C#.Net\LearningCHash\Factory\bin\Debug\Factory.exe
+C:\Users\AMishra2\source\repos\JPMC_C#.Net\LearningCHash\Factory\bin\Debug\Factory.pdb
+C:\Users\AMishra2\source\repos\JPMC_C#.Net\LearningCHash\Factory\obj\Debug\Factory.csproj.AssemblyReference.cache
+C:\Users\AMishra2\source\repos\JPMC_C#.Net\LearningCHash\Factory\obj\Debug\Factory.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMishra2\source\repos\JPMC_C#.Net\LearningCHash\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\AMishra2\source\repos\JPMC_C#.Net\LearningCHash\Factory\obj\Debug\Factory.exe
+C:\Users\AMishra2\source\repos\JPMC_C#.Net\LearningCHash\Factory\obj\Debug\Factory.pdb
