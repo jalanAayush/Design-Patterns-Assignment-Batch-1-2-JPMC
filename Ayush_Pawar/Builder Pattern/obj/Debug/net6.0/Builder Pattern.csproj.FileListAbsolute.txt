@@ -1,0 +1,15 @@
+C:\Users\APawar\OneDrive - Affinion Group\Desktop\DesignPatterns\Design Patterns Assignment\Builder Pattern\bin\Debug\net6.0\Builder Pattern.exe
+C:\Users\APawar\OneDrive - Affinion Group\Desktop\DesignPatterns\Design Patterns Assignment\Builder Pattern\bin\Debug\net6.0\Builder Pattern.deps.json
+C:\Users\APawar\OneDrive - Affinion Group\Desktop\DesignPatterns\Design Patterns Assignment\Builder Pattern\bin\Debug\net6.0\Builder Pattern.runtimeconfig.json
+C:\Users\APawar\OneDrive - Affinion Group\Desktop\DesignPatterns\Design Patterns Assignment\Builder Pattern\bin\Debug\net6.0\Builder Pattern.dll
+C:\Users\APawar\OneDrive - Affinion Group\Desktop\DesignPatterns\Design Patterns Assignment\Builder Pattern\bin\Debug\net6.0\Builder Pattern.pdb
+C:\Users\APawar\OneDrive - Affinion Group\Desktop\DesignPatterns\Design Patterns Assignment\Builder Pattern\obj\Debug\net6.0\Builder Pattern.csproj.AssemblyReference.cache
+C:\Users\APawar\OneDrive - Affinion Group\Desktop\DesignPatterns\Design Patterns Assignment\Builder Pattern\obj\Debug\net6.0\Builder Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APawar\OneDrive - Affinion Group\Desktop\DesignPatterns\Design Patterns Assignment\Builder Pattern\obj\Debug\net6.0\Builder Pattern.AssemblyInfoInputs.cache
+C:\Users\APawar\OneDrive - Affinion Group\Desktop\DesignPatterns\Design Patterns Assignment\Builder Pattern\obj\Debug\net6.0\Builder Pattern.AssemblyInfo.cs
+C:\Users\APawar\OneDrive - Affinion Group\Desktop\DesignPatterns\Design Patterns Assignment\Builder Pattern\obj\Debug\net6.0\Builder Pattern.csproj.CoreCompileInputs.cache
+C:\Users\APawar\OneDrive - Affinion Group\Desktop\DesignPatterns\Design Patterns Assignment\Builder Pattern\obj\Debug\net6.0\Builder Pattern.dll
+C:\Users\APawar\OneDrive - Affinion Group\Desktop\DesignPatterns\Design Patterns Assignment\Builder Pattern\obj\Debug\net6.0\refint\Builder Pattern.dll
+C:\Users\APawar\OneDrive - Affinion Group\Desktop\DesignPatterns\Design Patterns Assignment\Builder Pattern\obj\Debug\net6.0\Builder Pattern.pdb
+C:\Users\APawar\OneDrive - Affinion Group\Desktop\DesignPatterns\Design Patterns Assignment\Builder Pattern\obj\Debug\net6.0\Builder Pattern.genruntimeconfig.cache
+C:\Users\APawar\OneDrive - Affinion Group\Desktop\DesignPatterns\Design Patterns Assignment\Builder Pattern\obj\Debug\net6.0\ref\Builder Pattern.dll
