@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AbstractFactoryPatternAssignment/1.0.0": {
+        "runtime": {
+          "AbstractFactoryPatternAssignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractFactoryPatternAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

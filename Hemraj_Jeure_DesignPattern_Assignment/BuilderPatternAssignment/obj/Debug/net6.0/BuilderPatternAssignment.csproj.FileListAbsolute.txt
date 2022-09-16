@@ -1,0 +1,15 @@
+C:\Users\HJeure\source\repos\BuilderPatternAssignment\bin\Debug\net6.0\BuilderPatternAssignment.exe
+C:\Users\HJeure\source\repos\BuilderPatternAssignment\bin\Debug\net6.0\BuilderPatternAssignment.deps.json
+C:\Users\HJeure\source\repos\BuilderPatternAssignment\bin\Debug\net6.0\BuilderPatternAssignment.runtimeconfig.json
+C:\Users\HJeure\source\repos\BuilderPatternAssignment\bin\Debug\net6.0\BuilderPatternAssignment.dll
+C:\Users\HJeure\source\repos\BuilderPatternAssignment\bin\Debug\net6.0\BuilderPatternAssignment.pdb
+C:\Users\HJeure\source\repos\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.csproj.AssemblyReference.cache
+C:\Users\HJeure\source\repos\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HJeure\source\repos\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.AssemblyInfoInputs.cache
+C:\Users\HJeure\source\repos\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.AssemblyInfo.cs
+C:\Users\HJeure\source\repos\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.csproj.CoreCompileInputs.cache
+C:\Users\HJeure\source\repos\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.dll
+C:\Users\HJeure\source\repos\BuilderPatternAssignment\obj\Debug\net6.0\refint\BuilderPatternAssignment.dll
+C:\Users\HJeure\source\repos\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.pdb
+C:\Users\HJeure\source\repos\BuilderPatternAssignment\obj\Debug\net6.0\BuilderPatternAssignment.genruntimeconfig.cache
+C:\Users\HJeure\source\repos\BuilderPatternAssignment\obj\Debug\net6.0\ref\BuilderPatternAssignment.dll

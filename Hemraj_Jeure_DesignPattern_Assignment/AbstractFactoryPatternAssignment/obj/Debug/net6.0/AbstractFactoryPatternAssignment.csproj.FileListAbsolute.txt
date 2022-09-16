@@ -1,0 +1,15 @@
+C:\Users\HJeure\source\repos\AbstractFactoryPatternAssignment\bin\Debug\net6.0\AbstractFactoryPatternAssignment.exe
+C:\Users\HJeure\source\repos\AbstractFactoryPatternAssignment\bin\Debug\net6.0\AbstractFactoryPatternAssignment.deps.json
+C:\Users\HJeure\source\repos\AbstractFactoryPatternAssignment\bin\Debug\net6.0\AbstractFactoryPatternAssignment.runtimeconfig.json
+C:\Users\HJeure\source\repos\AbstractFactoryPatternAssignment\bin\Debug\net6.0\AbstractFactoryPatternAssignment.dll
+C:\Users\HJeure\source\repos\AbstractFactoryPatternAssignment\bin\Debug\net6.0\AbstractFactoryPatternAssignment.pdb
+C:\Users\HJeure\source\repos\AbstractFactoryPatternAssignment\obj\Debug\net6.0\AbstractFactoryPatternAssignment.csproj.AssemblyReference.cache
+C:\Users\HJeure\source\repos\AbstractFactoryPatternAssignment\obj\Debug\net6.0\AbstractFactoryPatternAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HJeure\source\repos\AbstractFactoryPatternAssignment\obj\Debug\net6.0\AbstractFactoryPatternAssignment.AssemblyInfoInputs.cache
+C:\Users\HJeure\source\repos\AbstractFactoryPatternAssignment\obj\Debug\net6.0\AbstractFactoryPatternAssignment.AssemblyInfo.cs
+C:\Users\HJeure\source\repos\AbstractFactoryPatternAssignment\obj\Debug\net6.0\AbstractFactoryPatternAssignment.csproj.CoreCompileInputs.cache
+C:\Users\HJeure\source\repos\AbstractFactoryPatternAssignment\obj\Debug\net6.0\AbstractFactoryPatternAssignment.dll
+C:\Users\HJeure\source\repos\AbstractFactoryPatternAssignment\obj\Debug\net6.0\refint\AbstractFactoryPatternAssignment.dll
+C:\Users\HJeure\source\repos\AbstractFactoryPatternAssignment\obj\Debug\net6.0\AbstractFactoryPatternAssignment.pdb
+C:\Users\HJeure\source\repos\AbstractFactoryPatternAssignment\obj\Debug\net6.0\AbstractFactoryPatternAssignment.genruntimeconfig.cache
+C:\Users\HJeure\source\repos\AbstractFactoryPatternAssignment\obj\Debug\net6.0\ref\AbstractFactoryPatternAssignment.dll
