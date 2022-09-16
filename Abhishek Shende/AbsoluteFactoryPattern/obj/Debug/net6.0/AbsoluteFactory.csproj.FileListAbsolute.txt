@@ -1,0 +1,15 @@
+C:\Users\AShende\Downloads\Design Pattern\AbsoluteFactoryPattern\bin\Debug\net6.0\AbsoluteFactory.exe
+C:\Users\AShende\Downloads\Design Pattern\AbsoluteFactoryPattern\bin\Debug\net6.0\AbsoluteFactory.deps.json
+C:\Users\AShende\Downloads\Design Pattern\AbsoluteFactoryPattern\bin\Debug\net6.0\AbsoluteFactory.runtimeconfig.json
+C:\Users\AShende\Downloads\Design Pattern\AbsoluteFactoryPattern\bin\Debug\net6.0\AbsoluteFactory.dll
+C:\Users\AShende\Downloads\Design Pattern\AbsoluteFactoryPattern\bin\Debug\net6.0\AbsoluteFactory.pdb
+C:\Users\AShende\Downloads\Design Pattern\AbsoluteFactoryPattern\obj\Debug\net6.0\AbsoluteFactory.csproj.AssemblyReference.cache
+C:\Users\AShende\Downloads\Design Pattern\AbsoluteFactoryPattern\obj\Debug\net6.0\AbsoluteFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AShende\Downloads\Design Pattern\AbsoluteFactoryPattern\obj\Debug\net6.0\AbsoluteFactory.AssemblyInfoInputs.cache
+C:\Users\AShende\Downloads\Design Pattern\AbsoluteFactoryPattern\obj\Debug\net6.0\AbsoluteFactory.AssemblyInfo.cs
+C:\Users\AShende\Downloads\Design Pattern\AbsoluteFactoryPattern\obj\Debug\net6.0\AbsoluteFactory.csproj.CoreCompileInputs.cache
+C:\Users\AShende\Downloads\Design Pattern\AbsoluteFactoryPattern\obj\Debug\net6.0\AbsoluteFactory.dll
+C:\Users\AShende\Downloads\Design Pattern\AbsoluteFactoryPattern\obj\Debug\net6.0\refint\AbsoluteFactory.dll
+C:\Users\AShende\Downloads\Design Pattern\AbsoluteFactoryPattern\obj\Debug\net6.0\AbsoluteFactory.pdb
+C:\Users\AShende\Downloads\Design Pattern\AbsoluteFactoryPattern\obj\Debug\net6.0\AbsoluteFactory.genruntimeconfig.cache
+C:\Users\AShende\Downloads\Design Pattern\AbsoluteFactoryPattern\obj\Debug\net6.0\ref\AbsoluteFactory.dll
