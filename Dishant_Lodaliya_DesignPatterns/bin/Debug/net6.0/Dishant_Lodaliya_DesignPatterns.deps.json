@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dishant_Lodaliya_DesignPatterns/1.0.0": {
+        "runtime": {
+          "Dishant_Lodaliya_DesignPatterns.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dishant_Lodaliya_DesignPatterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
