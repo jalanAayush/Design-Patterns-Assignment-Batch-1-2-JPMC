@@ -1,0 +1,5 @@
+C:\Users\HKasabe\OneDrive - Affinion Group\Desktop\Hemantraje_Kasabe_DesignPatternsAssignment\AbsoluteFactory\obj\Debug\net6.0\AbsoluteFactory.csproj.AssemblyReference.cache
+C:\Users\HKasabe\OneDrive - Affinion Group\Desktop\Hemantraje_Kasabe_DesignPatternsAssignment\AbsoluteFactory\obj\Debug\net6.0\AbsoluteFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HKasabe\OneDrive - Affinion Group\Desktop\Hemantraje_Kasabe_DesignPatternsAssignment\AbsoluteFactory\obj\Debug\net6.0\AbsoluteFactory.AssemblyInfoInputs.cache
+C:\Users\HKasabe\OneDrive - Affinion Group\Desktop\Hemantraje_Kasabe_DesignPatternsAssignment\AbsoluteFactory\obj\Debug\net6.0\AbsoluteFactory.AssemblyInfo.cs
+C:\Users\HKasabe\OneDrive - Affinion Group\Desktop\Hemantraje_Kasabe_DesignPatternsAssignment\AbsoluteFactory\obj\Debug\net6.0\AbsoluteFactory.csproj.CoreCompileInputs.cache
