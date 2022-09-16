@@ -1,0 +1,15 @@
+C:\JPMCTraining_Codebase\Digvijay-Pawar-DesignPattern\Factory\Factory\bin\Debug\net6.0\Factory.exe
+C:\JPMCTraining_Codebase\Digvijay-Pawar-DesignPattern\Factory\Factory\bin\Debug\net6.0\Factory.deps.json
+C:\JPMCTraining_Codebase\Digvijay-Pawar-DesignPattern\Factory\Factory\bin\Debug\net6.0\Factory.runtimeconfig.json
+C:\JPMCTraining_Codebase\Digvijay-Pawar-DesignPattern\Factory\Factory\bin\Debug\net6.0\Factory.dll
+C:\JPMCTraining_Codebase\Digvijay-Pawar-DesignPattern\Factory\Factory\bin\Debug\net6.0\Factory.pdb
+C:\JPMCTraining_Codebase\Digvijay-Pawar-DesignPattern\Factory\Factory\obj\Debug\net6.0\Factory.csproj.AssemblyReference.cache
+C:\JPMCTraining_Codebase\Digvijay-Pawar-DesignPattern\Factory\Factory\obj\Debug\net6.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\JPMCTraining_Codebase\Digvijay-Pawar-DesignPattern\Factory\Factory\obj\Debug\net6.0\Factory.AssemblyInfoInputs.cache
+C:\JPMCTraining_Codebase\Digvijay-Pawar-DesignPattern\Factory\Factory\obj\Debug\net6.0\Factory.AssemblyInfo.cs
+C:\JPMCTraining_Codebase\Digvijay-Pawar-DesignPattern\Factory\Factory\obj\Debug\net6.0\Factory.csproj.CoreCompileInputs.cache
+C:\JPMCTraining_Codebase\Digvijay-Pawar-DesignPattern\Factory\Factory\obj\Debug\net6.0\Factory.dll
+C:\JPMCTraining_Codebase\Digvijay-Pawar-DesignPattern\Factory\Factory\obj\Debug\net6.0\refint\Factory.dll
+C:\JPMCTraining_Codebase\Digvijay-Pawar-DesignPattern\Factory\Factory\obj\Debug\net6.0\Factory.pdb
+C:\JPMCTraining_Codebase\Digvijay-Pawar-DesignPattern\Factory\Factory\obj\Debug\net6.0\Factory.genruntimeconfig.cache
+C:\JPMCTraining_Codebase\Digvijay-Pawar-DesignPattern\Factory\Factory\obj\Debug\net6.0\ref\Factory.dll
